@@ -1,0 +1,5 @@
+List::Util              1.68
+Log::Log4perl::Appender 0
+Net::Domain             3.11
+Net::SMTP               3.11
+Readonly                2.05

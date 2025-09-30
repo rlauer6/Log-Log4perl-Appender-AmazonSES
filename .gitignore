@@ -1,0 +1,9 @@
+\#*
+resources
+*.tmp
+extra-files
+README.md.in
+README.pod
+**/*.pm
+provides
+*.tar.gz
