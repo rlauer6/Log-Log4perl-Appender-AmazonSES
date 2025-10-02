@@ -5,6 +5,7 @@ project:
     mailto: rclauer@gmail.com
 pm_module: Log::Log4perl::Appender::AmazonSES
 min-perl-version: 5.010
+include-version: yes
 dependencies:
   requires: requires
   test_requires: test-requires

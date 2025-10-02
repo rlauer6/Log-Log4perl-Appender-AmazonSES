@@ -1,3 +1,9 @@
+Thu Oct  2 07:37:47 2025  Rob Lauer  <rlauer6@comcast.net>
+
+	[1.0.1]:
+	* VERSION: bump
+	* buildspec.yml: include-version
+
 Tue Sep 30 10:39:03 2025  Rob Lauer  <rlauer6@comcast.net>
 
 	[BigBang]:
